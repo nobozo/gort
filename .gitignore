@@ -1,0 +1,6 @@
+*.gogo
+.vscode/
+rtrc
+tags
+gort
+__debug_bin
