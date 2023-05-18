@@ -252,7 +252,8 @@ SID and database objects are created in $DatabaseUser's schema.
 
 */
 
-var DatabaseName = "rt5"
+// var DatabaseName = "rt5"
+var DatabaseName = "jon" // So that we don't override the real db while testing.
 
 /*
 
